@@ -8,7 +8,7 @@ const levelKey = {
     "0,155,100": "mountain",
     "255,255,255": "cloud",
     "155,55,0": "ground",
-    "100,100,100": Rock,
+    "16,84,0": Rock,
     "255,255,100": Lava,
     "255,255,155": Lava, 
     "0,255,0": Player,
@@ -156,5 +156,5 @@ let sources = {
         offsetX: 352,
         offsetY: 320
     },
-    map1: {src: 'img/maps/kartatest1.png'}
+    map1: {src: 'img/maps/kartatest.png'}
 };
